@@ -1,0 +1,44 @@
+o## Check the version
+git version
+git --version
+
+Create a Local repository first and then push to Server(gitHub here)
+1. Create a directory. e.g git_essentials
+2. git add . or git add fileName or git add *.
+3. git commit -m "Initial commit"
+
+---GIT ADD
+Running this will add all(tracked and untracked) files, and their latest changes to the staging area
+
+a) delete a branch >>  git branch -d branchName
+b) forcefully delete a branch >> git branch -D branchName 
+
+
+Version Control System:
+1. Centralised
+	-> Sub-Version
+	-> TFS 
+2. Distributed
+	-> GIT
+	-> Mercurial
+
+Using GIT
+-- Command Line
+-- Code editors and IDE
+-- GUI
+
+Extensions:
+- Git Lens
+- Git Graph
+- Git History
+
+Why using GIT:
+---------------
+1
+
+. Free
+2. Scalable
+3. Open Source
+4. Super Fast
+5. Cheap branching and merging
+
