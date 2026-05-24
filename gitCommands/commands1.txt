@@ -27,6 +27,12 @@ Using GIT
 -- Code editors and IDE
 -- GUI
 
+GIT Clients:
+-------------
+1. Source Tree
+2. Git Kraken
+	> Good for Boards, Timelines.
+
 Extensions:
 - Git Lens
 - Git Graph
