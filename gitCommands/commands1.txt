@@ -1,4 +1,4 @@
-o## Check the version
+## Check the version
 git version
 git --version
 
@@ -40,11 +40,12 @@ Extensions:
 
 Why using GIT:
 ---------------
-1
 
-. Free
+1. Free
 2. Scalable
 3. Open Source
 4. Super Fast
 5. Cheap branching and merging
 
+
+**** Latest Changes.
